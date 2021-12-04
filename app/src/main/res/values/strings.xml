@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab05_2</string>
+    <string name="header">Image downloading by Executor</string>
+    <string name="image">Image</string>
+</resources>
